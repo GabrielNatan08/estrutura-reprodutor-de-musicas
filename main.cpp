@@ -1,6 +1,6 @@
 #include <string.h>
 #include <locale.h>
-#include "functions.h"
+#include "funcoes.h"
 #include "visor.h"
 
 int main() {
